@@ -1,0 +1,30 @@
+{
+  "generated": "2026-09-23",
+  "since": 2022,
+  "repos": 50,
+  "private_repos": 41,
+  "commits": 1427,
+  "deployments": 31,
+  "commits_by_year": {
+    "2023": 12,
+    "2024": 792,
+    "2025": 436,
+    "2026": 187
+  },
+  "languages": {
+    "JavaScript": 7611783,
+    "TypeScript": 3594819,
+    "HTML": 3417588,
+    "CSS": 2871877,
+    "SCSS": 360290,
+    "Pug": 113647,
+    "Python": 16270,
+    "Java": 6636,
+    "Shell": 3328,
+    "Kotlin": 2237,
+    "PHP": 1739,
+    "Ruby": 1544,
+    "Swift": 1229,
+    "Dockerfile": 1013
+  }
+}
